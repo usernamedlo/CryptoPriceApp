@@ -71,17 +71,17 @@ body{
 }
 
 .coin.rising{
-    background: linear-gradient(90deg, #202022 0%, #4eb64510 100%);
+    background: linear-gradient(90deg, #202022, #4eb64510);
 }
 
 .coin.rising .coin-price .price{
-    color: #00ff00;
+    color: #30ff20;
 }
 
 .coin.falling{
-    background: linear-gradient(90deg, #202022 0%, #4eb64510 100%);
+    background: linear-gradient(90deg, #202022, #aa444425);
 }
 
 .coin.falling .coin-price .price{
-    color: #ff0000;
+    color: #ff4040;
 }
